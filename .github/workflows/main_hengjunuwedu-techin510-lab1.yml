@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'hengjunuwedu-techin510-lab1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EC1825D104F49E4B34A793FC3440F96 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0806B97AF31C4779B2FBAFE691D2D7C1 }}
